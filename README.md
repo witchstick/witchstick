@@ -1,15 +1,9 @@
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
-<!-- !@witchstick <3 -->
-
-<p align="center">
-
-<img width="200" height="200" src="https://cdn.discordapp.com/attachments/1048712162597687317/1111578026346549288/61794BCE-F93B-43CB-AFAC-EC8F37C04ACB.gif" alt="banner">
-
-</p>
-
-<!-- !@witchstick <3 -->
+<!-- @witchstick <3 -->
+<!-- stop stealing my profile <3 -->
+<!-- @witchstick <3 -->
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
