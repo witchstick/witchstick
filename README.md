@@ -1,9 +1,15 @@
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
+<!-- !@witchstick <3 -->
 
-<!-- @witchstick <3 -->
+<p align="center”>
 
+<img width="200" height="200" src="https://cdn.discordapp.com/attachments/1048712162597687317/1111574824507166730/banner.png" alt="banner">
+
+</p>
+
+<!-- !@witchstick <3 -->
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
 <!-- Hi skid <3 -->
@@ -12,7 +18,7 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=witchstick&style=for-the-badge />
 </p> -->
 
-<p href="https://discord.gg/onlp" align="center">
+<p href="" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
 </p>
 
@@ -21,7 +27,7 @@ class Attributes(Witchstick):
 	@staticmethod
 	def contact() -> tuple:
 	    discord  = "wz#0045"
-	  	instagram = "witchstik"
+	    instagram = "witchstik"
 	    
 	    return discord, instagram,
 	
