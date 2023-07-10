@@ -20,8 +20,8 @@
 class Attributes(Witchstick):
 	@staticmethod
 	def contact() -> tuple:
-	    discord  = "wz#0045"
-	    instagram = "witchstik"
+	    discord  = "@witchstick"
+	    instagram = "@witchstick"
 	    
 	    return discord, instagram,
 	
