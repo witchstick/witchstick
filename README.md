@@ -27,7 +27,7 @@ class Attributes(Witchstick):
 	
 	@staticmethod
 	def life() -> tuple:
-		langs         = ['Portuguese', 'English', 'Spanish']
+		langs         = ['English']
 		age           = 17
 		
 		return langs, age
